@@ -1,1 +1,2 @@
 Photos Video
+Camera
